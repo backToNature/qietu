@@ -1,0 +1,14 @@
+{
+  "name": "mdevf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "velocity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gh",
+  "license": "ISC",
+  "devDependencies": {
+    "velocityjs": "^0.7.5"
+  }
+}
